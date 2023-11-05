@@ -1,6 +1,7 @@
 <img src="https://github.com/Yassine-64/Yassine-64/raw/master/Output.gif" alt="Here is a little bit about me!">
 <p>
   <samp>
-    Greetings, I'm Yassine Mazhare. As you might have noticed in the gif, my full name is Yassine Mazhare. I'm a dedicated full-stack development student at ISGI Marrakech, with a strong inclination toward backend systems and database security. Since my journey's inception in 2020, my mission is to seamlessly merge the realms of full-stack development and cybersecurity, with a particular focus on database security. I remain resolute in staying on the cutting edge of technology trends. Let's connect and collaborate on projects that align with this vision. 🚀
+  <h2>About me </h2>h2>
+   My full name is Yassine Mazhare, and I'm a dedicated full-stack development student at ISGI Marrakech. With a strong inclination toward backend systems and database security, I've been on this journey since 2020. My mission is to seamlessly merge the realms of full-stack development and cybersecurity, emphasizing the critical importance of database security. I stay updated with the latest technology trends and innovations to ensure that I'm always at the forefront of the field. Let's connect and collaborate on exciting projects that align with this vision. 🚀
   </samp>
 </p>
