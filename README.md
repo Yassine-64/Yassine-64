@@ -6,7 +6,6 @@
    Find me 
   </samp>
 </p>
-<p><br><br></p>
 <p align="center">
   <a href="https://www.linkedin.com/in/yassine-mazhare-80172722a/" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:yassinemazhare@gmail.com?subject=Your%20Subject&body=Your%20Message"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
