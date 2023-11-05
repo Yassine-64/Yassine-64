@@ -3,7 +3,7 @@
 <p>
   <h2>Hi Fellow devs </h2>
   <samp>
-   Find me 
+   Connect with me:
   </samp>
 </p>
 <p align="center">
