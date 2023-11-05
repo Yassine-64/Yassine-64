@@ -2,7 +2,7 @@
 
 <p>
   <samp>
-   <h2>Connect with me:</h2>
+   Connect with me:
   </samp>
 </p>
 <p align="center">
