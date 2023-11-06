@@ -14,29 +14,30 @@ void setup() {
   frameRate(30);
   textAlign(CENTER);
   textSize(40);
-  background(0); // Black background
-  fill(255); // White text
+  background(0); 
+  fill(255); 
 
-  strs[0][0] = "Hello!";
-  strs[0][1] = "I'm Yassine, a future Full Stack Developer.";
+strs[0][0] = "Hello!";
+strs[0][1] = "I'm Yassine Mazhare, a budding coder from Marrakech.";
 
-  strs[1][0] = "Passionate about coding and problem-solving.";
-  strs[1][1] = "Learning new languages and exploring code.";
+strs[1][0] = "My coding journey began in 2020,";
+strs[1][1] = "Passionate about visual art and web development.";
 
-  strs[2][0] = "Let's create something amazing together.";
-  strs[2][1] = "Join me on my coding journey.";
+strs[2][0] = "Proficient in creative coding with Processing!";
+strs[2][1] = "You can even find the Processing source code for this below!";
 
-  strs[3][0] = "Here to connect, collaborate, and code.";
-  strs[3][1] = "Reach out at yassinemazhare@gmail.com.";
+strs[3][0] = "On a mission to learn and grow,";
+strs[3][1] = "Currently, I'm diving into new frameworks and technologies.";
 
-  strs[4][0] = "Stay curious, keep coding!";
-  strs[4][1] = "The adventure is just beginning.";
+strs[4][0] = "Crafting solutions, one line at a time.";
+strs[4][1] = "Discover more in my extensive collection on GitHub.";
+strs[5][0] = "Feel free to connect with me,";
+strs[5][1] = "Let's explore the limitless possibilities of coding together.";
 
-  strs[5][0] = "Crafting solutions, one line of code at a time.";
-  strs[5][1] = "Explore my GitHub repositories.";
+strs[6][0] = "Stay curious, keep coding!";
+strs[6][1] = "The adventure has just begun!";
 
-  strs[6][0] = "Innovation, creativity, and endless possibilities.";
-  strs[6][1] = "Turning ideas into reality.";
+
 }
 
 void draw() {
@@ -61,7 +62,7 @@ void draw() {
       i++;
     } else {
       if (!delete) {
-        delay(1500);
+        delay(1900);
       }
       delete = true;
     }
