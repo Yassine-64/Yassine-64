@@ -10,7 +10,7 @@
   <a href="mailto:yassinemazhare@gmail.com?subject=Your%20Subject&body=Your%20Message"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
   <a href="https://discord.com/users/yassine_0001"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"</a>
 </p>
-<div align="left">
+<div align="right">
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Yassine&label=Profile%20Views&color=12&icon=6&pretty=false" />
 </a>
