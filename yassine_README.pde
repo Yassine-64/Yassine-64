@@ -1,3 +1,9 @@
+// IMPORTANT: This code is licensed under the MIT License.
+// Please see the LICENSE.txt file for details.
+// If you use or modify this code, remember to include the
+// copyright notice and license information in your project.
+// Thank you for respecting the open-source community!
+// *************************************************************
 String[][] strs = new String[7][2];
 PFont font;
 int i = 0;
