@@ -23,7 +23,7 @@
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> 
       </picture> 
       </a>&nbsp;&nbsp;&nbsp;
-    <a href="http://www.instagram.com/_yassine__1" target="_blank" rel="noreferrer"> 
+    <a href="https://www.instagram.com/_yassine__1/" target="_blank" rel="noreferrer"> 
         <picture> 
           <source media="(prefers-color-scheme: dark)" srcset="./img/icons8-instagram.svg" /> 
           <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> 
@@ -37,7 +37,7 @@
           <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> 
         </picture> 
     </a> &nbsp;&nbsp;&nbsp;
-    <a href="https://www.stackoverflow.com/users/yassine9" target="_blank" rel="noreferrer"> 
+    <a href="https://www.stackoverflow.com/users/22300950/yassine9" target="_blank" rel="noreferrer"> 
     <picture> <source media="(prefers-color-scheme: dark)" srcset="./img/icons8-stack-overflow.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /> </picture> </a>
     </p>
