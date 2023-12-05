@@ -23,7 +23,7 @@
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> 
       </picture> 
       </a>&nbsp;&nbsp;&nbsp;
-    <a href="http://www.instagram.com/__yassine_1" target="_blank" rel="noreferrer"> 
+    <a href="http://www.instagram.com/_yassine__1" target="_blank" rel="noreferrer"> 
         <picture> 
           <source media="(prefers-color-scheme: dark)" srcset="./img/icons8-instagram.svg" /> 
           <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> 
