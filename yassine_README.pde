@@ -5,7 +5,7 @@
 // Thank you for respecting the open-source community!
                             // Yassine Mazhare
 // *************************************************************
-String[][] strs = new String[7][2];
+String[][] strs = new String[5][2];
 PFont font;
 int i = 0;
 boolean delete = false;
@@ -21,34 +21,30 @@ void setup() {
   frameRate(30);
   textAlign(CENTER);
   textSize(40);
-  background(0); 
-  fill(255); 
+  background(255);
+  fill(0);
 
-strs[0][0] = "Hello!";
-strs[0][1] = "I'm Yassine Mazhare, a budding coder from Marrakech.";
+strs[0][0] = "Greetings!";
+strs[0][1] = "I'm Yassine Mazhare, a future full stack developer.";
 
-strs[1][0] = "My coding journey began in 2020,";
-strs[1][1] = "Passionate about visual art and web development.";
+strs[1][0] = "On a journey of continuous learning,";
+strs[1][1] = "I'm delving into new frameworks and technologies.";
 
-strs[2][0] = "Proficient in creative coding with Processing!";
-strs[2][1] = "You can even find the Processing source code for this below!";
+strs[2][0] = "Explore my GitHub repositories, ";
+strs[2][1] = "where you can discover more about my coding projects.";
 
-strs[3][0] = "On a mission to learn and grow,";
-strs[3][1] = "Currently, I'm diving into new frameworks and technologies.";
+strs[3][0] = "Feel free to connect with me.";
+strs[3][1] = "Let's explore the possibilities of coding together.";
 
-strs[4][0] = "Crafting solutions, one line at a time.";
-strs[4][1] = "Discover more in my extensive collection on GitHub.";
-strs[5][0] = "Feel free to connect with me,";
-strs[5][1] = "Let's explore the limitless possibilities of coding together.";
+strs[4][0] = "Stay curious, keep coding!";
+strs[4][1] = "The adventure has just begun!";
 
-strs[6][0] = "Stay curious, keep coding!";
-strs[6][1] = "The adventure has just begun!";
-
+  
 
 }
 
 void draw() {
-  background(0);
+  background(255);
 
   if (s < strs.length) {
     if ((strs[s][0].length() >= i || strs[s][1].length() >= i) && !delete) {
@@ -69,7 +65,7 @@ void draw() {
       i++;
     } else {
       if (!delete) {
-        delay(1900);
+        delay(2500);
       }
       delete = true;
     }
