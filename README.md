@@ -1,12 +1,11 @@
 <img src="https://github.com/Yassine-64/Yassine-64/raw/master/ReProcess.gif" alt="Here is a little bit about me!">
 
-<p>
-  <samp>
-   Connect with me:
-  </samp>
-</p>
-<p align="left">
-  <a href="https://www.linkedin.com/in/yassine-mazhare-80172722a/" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:yassinemazhare@gmail.com?subject=Your%20Subject&body=Your%20Message"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
-  <a href="https://discord.com/users/yassine_0001"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"</a>
-</p>
+
+  <p sytle="font-size:20px;">
+    Hello again!<br>
+    As you might have seen in the gif, I'm Yassine Mazhare, a dedicated coder from Morocco.
+    I discovered my true passion for programming in 2020, and now, in my first year of Digital Development studies, I'm on a journey to become a DevOps engineer.<br>
+    The full-stack skills I'm acquiring will play a crucial role in achieving this goal, given the strong connection between full-stack development and DevOps.<br>
+    For the past two years, I've been self-teaching the art of coding.<br>
+    This journey has been an exciting exploration of languages, frameworks, and problem-solving techniques. Each day is an opportunity to enhance my skills and creativity.
+  </p>
