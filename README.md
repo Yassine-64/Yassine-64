@@ -16,28 +16,35 @@
 
   !Find Me On:
     <p align="left"> 
+    <a href="mailto:yassinemazhare@gmail.com" target="_blank"  rel="noreferrer">
+      <picture> 
+        <source media="(prefers-color-scheme: dark)" srcset="./img/icons8-gmail(3).svg" /> 
+        <source media="(prefers-color-scheme: light)" srcset="./img/icons8-gmail(2).svg" />
+        <img src="./img/icons8-gmail(2).svg" width="32" height="32" /> 
+      </picture> 
+      </a>&nbsp;&nbsp;&nbsp;
     <a href="https://discord.com/users/yassine_0001" target="_blank" rel="noreferrer">
       <picture> 
         <source media="(prefers-color-scheme: dark)" srcset="./img/discord-dark.svg" /> 
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="./img/icons8-discord(2).svg" />
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> 
       </picture> 
       </a>&nbsp;&nbsp;&nbsp;
     <a href="https://www.instagram.com/_yassine__1/" target="_blank" rel="noreferrer"> 
         <picture> 
           <source media="(prefers-color-scheme: dark)" srcset="./img/icons8-instagram.svg" /> 
-          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> 
+          <source media="(prefers-color-scheme: light)" srcset="./img/icons8-instagram(1).svg" /> 
           <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
         </picture>
     </a>&nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/yassine-mazhare-80172722a" target="_blank" rel="noreferrer"> 
         <picture> 
-          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> 
-          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> 
+          <source media="(prefers-color-scheme: dark)" srcset="./img/icons8-linkedin(2).svg" /> 
+          <source media="(prefers-color-scheme: light)" srcset="./img/icons8-linkedin(1).svg" /> 
           <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> 
         </picture> 
     </a> &nbsp;&nbsp;&nbsp;
     <a href="https://www.stackoverflow.com/users/22300950/yassine9" target="_blank" rel="noreferrer"> 
     <picture> <source media="(prefers-color-scheme: dark)" srcset="./img/icons8-stack-overflow.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /> </picture> </a>
+    <source media="(prefers-color-scheme: light)" srcset="./img/icons8-stack-overflow(1).svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /> </picture> </a>
     </p>
