@@ -14,8 +14,9 @@
     This journey has been an exciting exploration of languages, frameworks, and problem-solving techniques.
     Each day is an opportunity to enhance my skills and creativity.
 
-  !Find Me On:
+  Find Me On:
     <p align="left"> 
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:yassinemazhare@gmail.com" target="_blank"  rel="noreferrer">
       <picture> 
         <source media="(prefers-color-scheme: dark)" srcset="./img/icons8-gmail(3).svg" /> 
