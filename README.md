@@ -48,3 +48,6 @@
     <picture> <source media="(prefers-color-scheme: dark)" srcset="./img/icons8-stack-overflow.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./img/icons8-stack-overflow(1).svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /> </picture> </a>
     </p>
+    <p align="right">
+      ![](https://komarev.com/ghpvc/?username=Yassine-64&style=flat&color=lightgrey)
+    </p>
