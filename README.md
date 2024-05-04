@@ -1,5 +1,11 @@
 
-<img src="https://github.com/Yassine-64/Yassine-64/raw/master/ReProcess.gif" alt="Here is a little bit about me!">
+<p align="center">
+  <picture> 
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Yassine-64/Yassine-64/raw/master/ReProcessBlack.gif" /> 
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Yassine-64/Yassine-64/raw/master/ReProcessWhite.gif" />
+  </picture> 
+</p>
+
 
 
   
