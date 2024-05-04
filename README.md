@@ -1,7 +1,8 @@
 <img src="https://github.com/Yassine-64/Yassine-64/blob/master/ReprocessBlack.gif" alt="Here is a little bit about me!">
 
 
-    let moreAboutMe = [
+   ```javascript
+let moreAboutMe = [
         "Hi again!",
         "As you might have seen in the Processing Sketch, I'm Yassine Mazhare, a 20-year-old coder from Morocco.",
         "I discovered my true passion for programming in 2019.",
@@ -10,14 +11,16 @@
         "This journey has been an exciting exploration of languages, frameworks, and problem-solving techniques.",
         "Each day is an opportunity to enhance my skills and creativity."
     ];
-    
-    function showDescription() {
+
+function showDescription() {
     for (let i = 0; i < moreAboutMe.length; i++) {
         console.log(moreAboutMe[i]);
-      }
     }
+}
 
-    showDescription();
+showDescription();
+```
+    
 
 
 
