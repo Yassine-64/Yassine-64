@@ -25,7 +25,7 @@ void setup() {
   fill(0);
 
 strs[0][0] = "Greetings!";
-strs[0][1] = "I'm Yassine Mazhare, a future full stack developer.";
+strs[0][1] = "I'm Yassine Mazhare, a future Mobile App developer.";
 
 strs[1][0] = "On a journey of continuous learning,";
 strs[1][1] = "I'm delving into new frameworks and technologies.";
