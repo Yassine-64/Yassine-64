@@ -16,7 +16,7 @@ int secondaryFontSize = 40;
 
 void setup() {
   size(1366, 768);
-  font = createFont("HelveticaNeue-48.vlw", 48);
+  font = createFont("HelveticaNeue", 48);
   textFont(font);
   frameRate(30);
   textAlign(CENTER);
@@ -44,7 +44,6 @@ strs[4][1] = "The adventure has just begun!";
 }
 
 void draw() {
-  background(255);
 
   if (s < strs.length) {
     if ((strs[s][0].length() >= i || strs[s][1].length() >= i) && !delete) {
