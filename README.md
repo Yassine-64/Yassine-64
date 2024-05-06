@@ -4,7 +4,7 @@
    ```javascript
 let moreAboutMe = [
         "Hi again!",
-        "As you might have seen in the Processing Sketch, I'm Yassine Mazhare, a 20-year-old developer from Morocco.",
+        "As you might have seen in the Processing Sketch, I'm Yassine Mazhare, a 20-year-old developer .",
         "I discovered my true passion for programming in 2019.",
         "Currently, I'm focusing on becoming a DevOps engineer specializing in mobile apps.", 
         "For the past two years, I've been self-teaching how to code.",
