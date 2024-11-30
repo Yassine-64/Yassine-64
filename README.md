@@ -21,13 +21,3 @@ function showDescription() {
 showDescription();
 ```
     
-
-      <source media="(prefers-color-scheme: dark)" srcset="img/icons8-stack-overflow.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="img/icons8-stack-overflow(1).svg" />
-      <img src="img/icons8-stack-overflow(1).svg" width="32" height="32" />
-    </picture>
-  </a>
-</p>
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=Yassine-64&style=flat&color=lightgrey" alt="Profile views" />
-</p>
