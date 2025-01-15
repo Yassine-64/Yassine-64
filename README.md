@@ -17,7 +17,7 @@ function displayInfo(infoObject) {
 
 displayInfo(aboutMe);
 ```
-### My Tech Stack
+### My Tech Stack !
 
  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=FFFFFF)
  ![CSS](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=CSS&logoColor=FFFFFF)
