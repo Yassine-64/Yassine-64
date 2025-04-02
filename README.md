@@ -1,10 +1,10 @@
 ```javascript
 const aboutMe = {
-  intro: "Hello, I am Yassine Mazhare, a passionate developer focused on creating innovative solutions.",
-  learning : "Im currently Learning Next.js and Typescript",
-  values: "I believe in the power of collaboration and continuous learning.",
-  vision: "My goal is to build software that makes people's lives easier and more efficient.",
-  hobby: "In my free time, I enjoy reading about technology and working on personal projects."
+ intro: "Hi, I'm Yassine Mazhare, a developer who loves building cool things.",
+learning: "I'm learning Next.js and TypeScript right now.",
+values: "I believe teamwork and learning are key to growth.",
+vision: "I want to create software that helps people in their daily lives.",
+hobby: "I like reading about tech and working on my own projects in my free time."
 };
 
 function displayInfo(infoObject) {
