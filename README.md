@@ -3,7 +3,7 @@ const aboutMe = {
  intro: "Hi, I'm Yassine Mazhare, a developer who loves building cool things.",
  learning: "I'm currently learning Next.js and TypeScript.",
  values: "I believe teamwork and learning are key to success.",
- vision: "I want to create software that helps people in their daily lives.",
+ vision: "I want to create softwares and solutions that helps people in their daily lives.",
  hobby: "I like reading about tech and working on my own projects in my free time."
 };
 
