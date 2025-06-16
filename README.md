@@ -1,5 +1,6 @@
 ```javascript
 const aboutMe = {
+
  "intro": "Hi, I'm Yassine Mazhare  a developer passionate about building intelligent systems that blend full-stack engineering with AI.",
   "learning": "I'm currently diving deep into generative AI, Retrieval-Augmented Generation (RAG), and advanced Python workflows.",
   "values": "I believe in continuous learning, clean code, and the power of combining engineering and AI to solve real-world problems.",
