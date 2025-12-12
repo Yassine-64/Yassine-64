@@ -15,5 +15,5 @@ class AIEngineer:
         }
     
     def building(self):
-        return "Building intelligent retrieval and generation systems"
+        return "i build intelligent retrieval and generation systems lmao"
 ```
